@@ -25,7 +25,7 @@
 
 ## Screenshot
 
-![Landing page](./images/screenshot1.png)
+![Landing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/88980c2d-4c23-407d-81a6-33f4bc2e4bbd)
 
 ![Pricing page](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/bca1c442-d4ee-470d-91dc-0ff5823a83a8)
 
