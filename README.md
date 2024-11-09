@@ -11,7 +11,7 @@
 
 <div align="center">
   
-<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#you-may-also-like" align="center"> You may also like  </a> •  <a href="#license" align="center"> License  </a> 
+<a href="#quicstart" >Quickstart</a> • <a href="#technologies-used" align="center">Technologies Used</a> •  <a href="#screenshot" align="center"> Screenshot </a> • <a href="#license" align="center"> License  </a> 
 
 •<a href="https://world-wise-aleksandar.netlify.app/" align="Center">Live Server</a>
 
@@ -82,12 +82,6 @@ You can also see all visited countries
 
 ![All countries visited](https://github.com/AleksandarSarbajic/WorldWise/assets/114814838/f4b31c18-fe29-491a-b7cb-88872472c710)
 
-
-## You may also like...
-
-- [Tasty Trail](https://github.com/AleksandarSarbajic/the-wild-oasis) - Food ordering app
-- [The Wild Oasis](https://github.com/AleksandarSarbajic/Tasty-Trail) - Hotel service app
-- [React Quiz](https://github.com/AleksandarSarbajic/react-quiz) - React quiz app
 
 ## License
 
